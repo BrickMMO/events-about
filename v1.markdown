@@ -1,0 +1,48 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
+## Version 1 - Initial Production
+
+In progress: February 2024
+
+The purpose of this application is to display events hosted by BrickMMO and allow users to register as guests without having to sign up for an account. To achieve this, the Events Home Page displays a list of all the different BrickMMO events. Each event will provide general information such as the event's place, date, image, and a button that allows the user to access the details of the event.
+
+![Event List Page](images/v1-events-list.png)
+
+When the user clicks on one of the events, the page will navigate them to a more detailed page for the event, where they can reserve a spot. If the event has available tickets, users will be able to click on the "Reserve a Spot" button; otherwise, if the event is full, users will see a message indicating that the event is at full capacity.
+
+![Event Details Page](images/v1-events-details.png)
+
+Users will be directed to a form once the "Reserve a Spot" button is clicked. The form will allow users to provide their data and select their ticket. In case that the provided email is already on the list of participants for the selected event, the website will not proceed with the user's insertion and will display an error. Otherwise, the user will be added to the event, and the web app will redirect the user to the event list.
+
+![Event Details Page](images/v1-events-checkout.png)
+
+**(Status: Doing)** Additionally, this project will allow administrators to add, edit, and delete events. BrickMMO's Events presents a Log in page where administrators can provide their username and password. Once their credentials are verified, the administrator can navigate to the corresponding pages that will allow them to add, modify, or delete a desired event.
+
+### Related Links
+
+- [BrickMMO Events](https://brickmmo.com/)
+- [Version 1 GitHub Repo](https://github.com/BrickMMO/events-v1)
+
+### Documents
+
+- [Pitch (Markdown)](v1/events-v1-pitch)
+- [Pitch (PDF)](v1/events-v1-pitch.pdf)
+- [Requirements Document (Markdown)](v1/events-v1-requirements)
+- [Requirements Document (PDF)](v1/events-v1-requirements.pdf)
+
+### Contributors
+
+| | Name | Type | Contributions |
+| - | - | - | - |
+| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+| ![ufosanchez](students/ufosanchez.png) | Arnulfo Sanchez | Student | [ufosanchez](https://contributions.brickmmo.com/students/ufosanchez) |
+| ![naomit9](students/naomit9.png) | Naomi Truong | Student | [naomit9](https://contributions.brickmmo.com/students/naomit9) |
+| ![guduudow](students/guduudow.png) | Ederes Gure | Student | [guduudow](https://contributions.brickmmo.com/students/guduudow) |
+
+[&#10132; Back to About](/events-about/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
