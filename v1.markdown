@@ -36,8 +36,6 @@ Users will be directed to a form once the "Reserve a Spot" button is clicked. Th
 | - | - | - | - |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
 | ![ufosanchez](students/ufosanchez.png) | Arnulfo Sanchez | Student | [ufosanchez](https://contributions.brickmmo.com/students/ufosanchez) |
-| ![naomit9](students/naomit9.png) | Naomi Truong | Student | [naomit9](https://contributions.brickmmo.com/students/naomit9) |
-| ![guduudow](students/guduudow.png) | Ederes Gure | Student | [guduudow](https://contributions.brickmmo.com/students/guduudow) |
 
 [&#10132; Back to About](/events-about/)
 
