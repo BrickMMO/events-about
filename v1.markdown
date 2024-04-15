@@ -6,15 +6,16 @@ In progress: February 2024
 
 The purpose of this application is to display events hosted by BrickMMO and allow users to register as guests without having to sign up for an account. To achieve this, the Events Home Page displays a list of all the different BrickMMO events. Each event will provide general information such as the event's place, date, image, and a button that allows the user to access the details of the event.
 
-![Event List Page](images/v1-events-list.png)
+<img src="images/v1-events-list.png" width="624">
 
 When the user clicks on one of the events, the page will navigate them to a more detailed page for the event, where they can reserve a spot. If the event has available tickets, users will be able to click on the "Reserve a Spot" button; otherwise, if the event is full, users will see a message indicating that the event is at full capacity.
 
-![Event Details Page](images/v1-events-details.png)
+<img src="images/v1-events-details.png" width="624">
+
 
 Users will be directed to a form once the "Reserve a Spot" button is clicked. The form will allow users to provide their data and select their ticket. In case that the provided email is already on the list of participants for the selected event, the website will not proceed with the user's insertion and will display an error. Otherwise, the user will be added to the event, and the web app will redirect the user to the event list.
 
-![Event Details Page](images/v1-events-checkout.png)
+<img src="images/v1-events-checkout.png" width="624">
 
 **(Status: Doing)** Additionally, this project will allow administrators to add, edit, and delete events. BrickMMO's Events presents a Log in page where administrators can provide their username and password. Once their credentials are verified, the administrator can navigate to the corresponding pages that will allow them to add, modify, or delete a desired event.
 
