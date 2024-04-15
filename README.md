@@ -1,6 +1,6 @@
 # About Events
 
-This website will be used to track contributions, versions, and documentation for the [BrickMMO Events]([https://brickmmo.com/](https://brickmmo.github.io/events-about/)) project.
+This website will be used to track contributions, versions, and documentation for the [BrickMMO Events](https://brickmmo.github.io/events-about) project.
 
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
