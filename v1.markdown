@@ -21,7 +21,7 @@ Users will be directed to a form once the "Reserve a Spot" button is clicked. Th
 
 ### Related Links
 
-- [BrickMMO Events](https://brickmmo.com/)
+- [BrickMMO Events](https://brickmmo.com/events-about)
 - [Version 1 GitHub Repo](https://github.com/BrickMMO/events-v1)
 
 ### Documents
