@@ -5,6 +5,7 @@
 Events is a BrickMMO project management application that allows users to register as guests without having to sign up for an account. Additionally, admins can add, edit and delete various events that BrickMMO is holding.
 
 ![Event List Page](images/v1-events-list.png)
+<img src="images/v1-events-list.png" width="624">
 
 This application will provide BrickMMO users with a detailed list of each available event. In this list, they can see an image of the event, the title, date, location, and a button to go to the details of the events.
 
