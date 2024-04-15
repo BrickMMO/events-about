@@ -12,11 +12,15 @@ This website will be used to track contributions, versions, and documentation fo
 
 ## Project Stack
 
+<<<<<<< HEAD
 This project uses only [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
 This project uses [React](https://react.dev/) and [MUI](https://mui.com/).
 
 <img src="https://console.codeadam.ca/api/image/react" width="60"> <img src="https://console.codeadam.ca/api/image/mui" width="60">
 
+=======
+This project uses [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
+>>>>>>> 044c48a63da397591885394ca8151d7111cfccde
 
 <img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/markdown" width="60">
 
