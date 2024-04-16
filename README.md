@@ -1,6 +1,6 @@
 # About Events
 
-This website will be used to track contributions, versions, and documentation for the [BrickMMO Events](https://brickmmo.github.io/events-about) project.
+This website will be used to track contributions, versions, and documentation for the [BrickMMO Events](https://brickmmo.github.io/events) project.
 
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
@@ -12,15 +12,7 @@ This website will be used to track contributions, versions, and documentation fo
 
 ## Project Stack
 
-<<<<<<< HEAD
 This project uses only [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
-This project uses [React](https://react.dev/) and [MUI](https://mui.com/).
-
-<img src="https://console.codeadam.ca/api/image/react" width="60"> <img src="https://console.codeadam.ca/api/image/mui" width="60">
-
-=======
-This project uses [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
->>>>>>> 044c48a63da397591885394ca8151d7111cfccde
 
 <img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/markdown" width="60">
 
@@ -28,7 +20,7 @@ This project uses [Markdown](https://www.markdownguide.org/) and is hosted using
 
 ## Repo Resources
 
-- [BrickMMO Events]([https://brickmmo.com/](https://brickmmo.github.io/events-about/))
+- [BrickMMO Events]([https://brickmmo.com/](https://brickmmo.github.io/events/))
 - [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
