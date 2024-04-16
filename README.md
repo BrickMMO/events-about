@@ -1,6 +1,6 @@
 # About Events
 
-This website will be used to track contributions, versions, and documentation for the [BrickMMO Events](https://brickmmo.com/) project.
+This website will be used to track contributions, versions, and documentation for the [BrickMMO Events](https://brickmmo.github.io/events) project.
 
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
@@ -20,7 +20,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [BrickMMO Events](https://brickmmo.com/)
+- [BrickMMO Events]([https://brickmmo.com/](https://brickmmo.github.io/events/))
 - [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
